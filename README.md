@@ -1,1 +1,1 @@
-# mybatis-mysql
+# mybatis-create-mysql-multiple-db
