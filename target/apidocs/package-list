@@ -1,0 +1,9 @@
+com.xq.dz.annotation
+com.xq.dz.command
+com.xq.dz.constants
+com.xq.dz.dao.common
+com.xq.dz.dao.system
+com.xq.dz.manager.common
+com.xq.dz.manager.handler
+com.xq.dz.manager.system
+com.xq.dz.utils
